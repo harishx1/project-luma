@@ -18,6 +18,14 @@ Luma is an innovative web-based platform designed to support neurodiverse indivi
 
 ---
 
+## 📸 **Screenshots**
+
+![Dashboard Interface]
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/cdfe8ab7-1801-4608-a4b4-c2b7425af143" />
+*Main dashboard having buttons to other pages integrated.*
+
+---
+
 ## 🎯 **Problem Statement**
 
 *"Building an Inclusive World for Neurodiverse Individuals"* - GDG Solution Challenge 2025
