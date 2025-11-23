@@ -67,26 +67,14 @@ Neurodiverse individuals often face significant challenges in traditional learni
 
 ---
 
-## 🎮 **Game Modules**
-
-### **For Dyslexia**
-1. **Letter Master** - Letter recognition and sequencing
-2. **Word Builder** - Phonetic word construction
-3. **Reading Race** - Speed and comprehension training
-
-### **For Autism**
-1. **Emotion Match** - Facial expression recognition
-2. **Social Scenarios** - Interactive social situations
-3. **Pattern Play** - Visual pattern recognition
-
----
 
 ## 👥 **Development Team**
 
-- [Your Name] - Project Lead & Full Stack Developer
-- [Team Member 2] - Role
-- [Team Member 3] - Role
-- [Team Member 4] - Role
+- [Harish Pudake] - Team Lead - Backend
+- [Pradnesh Gawade] - Frontend
+- [Chaitanya Sawant] - Frontend
+- [Vedant Sonawane] - Backend
+- [Parth Shinde] - Research & Documentation
 
 ---
 
@@ -121,13 +109,6 @@ This project is protected under copyright law. All intellectual property rights 
 - [ ] Multi-language support
 - [ ] Offline functionality
 - [ ] Enhanced analytics dashboard
-
----
-
-## 📞 **Contact & Inquiries**
-
-**Email:** [your-email@example.com]  
-**GitHub:** [Your GitHub Profile]
 
 ---
 
