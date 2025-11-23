@@ -70,11 +70,11 @@ Neurodiverse individuals often face significant challenges in traditional learni
 
 ## 👥 **Development Team**
 
-- [Harish Pudake] - Team Lead - Backend
-- [Pradnesh Gawade] - Frontend
-- [Chaitanya Sawant] - Frontend
-- [Vedant Sonawane] - Backend
-- [Parth Shinde] - Research & Documentation
+- Harish Pudake - Team Lead - Backend & Integration
+- Pradnesh Gawade - Frontend
+- Chaitanya Sawant - Frontend
+- Vedant Sonawane - Backend
+- Parth Shinde - Research & Documentation
 
 ---
 
